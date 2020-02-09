@@ -1,0 +1,42 @@
+{
+  "name": "quack",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bip32": "^2.0.4",
+    "bip38": "^2.0.3",
+    "bip39": "^3.0.2",
+    "bitcoinjs-lib": "^5.1.6",
+    "bitcoinjs-message": "^2.1.0",
+    "pouchdb": "^7.1.1",
+    "pouchdb-find": "^7.1.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.0",
+    "simple-peer": "^9.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
